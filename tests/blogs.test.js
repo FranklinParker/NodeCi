@@ -1,4 +1,4 @@
-const Page = require('./helpers/Page');
+const Page = require('./helpers/Page1');
 
 let page;
 beforeEach(async () => {
